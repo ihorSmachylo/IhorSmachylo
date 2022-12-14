@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://chocobar.net/hcht-uk"
+     width="50" height="50"
+     alt="I stand with Ukraine">
