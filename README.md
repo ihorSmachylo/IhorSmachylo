@@ -1,4 +1,4 @@
-### Hi there 👋
+### Git Hub de aprendir de programador Full stack Ihor 🌱  👋
 
 <!--
 **ihorSmachylo/IhorSmachylo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://chocobar.net/hcht-uk"
-     width="50" height="50"
-     alt="I stand with Ukraine">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="50" height="50" alt="CSS">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQarExhZC7HudnBgnHJdYAZ9JfijRHS-UVpAF989NhSGw&s"  width="50" height="50" alt="html" >
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png"  width="50" height="50" alt="javaScript" >
