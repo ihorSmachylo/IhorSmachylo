@@ -6,7 +6,7 @@
 
 
 
-### GitHub de aprendiz de programador Full stack Ihor 🌱  👋
+### I'm a Junior Full-Stack Developer Trainee 🌱  👋
 
 <!--
 **ihorSmachylo/IhorSmachylo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
