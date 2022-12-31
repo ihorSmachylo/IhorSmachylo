@@ -1,5 +1,6 @@
-<p align="center"<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="50" height="50" alt="CSS"><p/>
-
+<div>
+    <p align="center"><img  src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611a0521e7a6b5e46da11a4b6cb35cdb3e725790b6d&rid=giphy.gif&ct=g" alt=""></p>
+</div>
 
 
 
@@ -23,7 +24,7 @@ Here are some ideas to get you started:
 -->
 
 <div>
-    
+    <h3>🔨Languages and Tools: </h3>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="100" alt="CSS">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQarExhZC7HudnBgnHJdYAZ9JfijRHS-UVpAF989NhSGw&s"  width="100"  alt="html" >
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png"  width="100"  alt="javaScript">
