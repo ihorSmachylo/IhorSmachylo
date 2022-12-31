@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 -->
 
 <div>
+    
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="100" alt="CSS">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQarExhZC7HudnBgnHJdYAZ9JfijRHS-UVpAF989NhSGw&s"  width="100"  alt="html" >
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png"  width="100"  alt="javaScript">
