@@ -20,3 +20,11 @@ Soy un chico de 25 años que ha decidido reeinventarse y pasar de los trabajos n
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ihor-smachylo-23a44120b//)
+<div>
+    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihorsmachylo&theme=dark)
+[![Ihor GitHub stats](https://github-readme-stats.vercel.app/api?username=ihorsmachylo)](https://github.com/ihorsmachylo/github-readme-stats)
+
+    
+<div/>
+
