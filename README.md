@@ -22,7 +22,7 @@ Soy un chico de 25 años que ha decidido reeinventarse y pasar de los trabajos n
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ihor-smachylo-23a44120b//)
 <div>
     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usernameihorsmachylo&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihorsmachylo&theme=tokyonight)
 
     
 <div/>
